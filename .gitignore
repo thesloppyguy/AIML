@@ -1,1 +1,4 @@
 notebook
+__pycache__
+*.csv
+main.py
