@@ -3,8 +3,8 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "AIML_ACHARYA_SAHIL"
-version = "0.0.1"
+name = "GeneralPack"
+version = "0.0.4"
 authors = [
   { name="sahil", email="sahilmandal@outlook.com" },
 ]
